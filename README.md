@@ -1,32 +1,52 @@
 # Hi there, I'm Abu Sayed 👋
 
 ## 🚀 About Me
-I'm an aspiring **tech entrepreneur** passionate about building impactful solutions that drive **global change**. I specialize in **AI development**, **full-stack systems**, and **scalable architectures** designed to tackle **real-world problems**.
+I'm an aspiring **tech entrepreneur** with a vision to **change the world** through impactful and scalable technology. I specialize in **AI development**, **full-stack systems**, and **custom software solutions** aimed at solving **real-world problems**.
 
-Founder of **Global Mirror**, a platform focused on exposing political truths and combating misinformation — aiming for a **peaceful and transparent world**.
+Founder of **Global Mirror**, a platform exposing political truths and fighting misinformation to promote a **crime-free and peaceful world**.
+
+I’m also involved in building advanced **AI PDF engines**, **cybersecurity tools**, **health tech solutions**, and **institutional management systems** like **E-CMH (Combined Military Hospital Management System)**.
 
 ---
 
 ## 🛠️ Technologies & Tools
-- **Languages:** Python, JavaScript, TypeScript, Java, C++
-- **Frameworks/Libraries:** React, Node.js, Flask, Django
-- **AI/ML:** TensorFlow, PyTorch, OpenAI API, LangChain
-- **Databases:** MongoDB, PostgreSQL, MySQL
-- **DevOps:** Docker, Git, GitHub Actions
-- **Other Tools:** VS Code, Postman, Figma
+- **Languages:** Python, JavaScript, TypeScript, Java, C++, PHP, SQL, Bash, HTML, CSS
+- **Frameworks/Libraries:** React, Next.js, Node.js, Express, Flask, Django, Tkinter
+- **AI/ML Tools:** TensorFlow, PyTorch, OpenAI API, LangChain, Scikit-learn, Transformers
+- **Databases:** MySQL, PostgreSQL, MongoDB, SQLite
+- **DevOps & Tools:** Docker, Git, GitHub Actions, Linux, Postman, Nginx, Apache
+- **Cloud & APIs:** AWS, Firebase, REST APIs, WebSockets
+- **Other Tools:** VS Code, Jupyter Notebook, Figma, Adobe XD, Canva
 
 ---
 
 ## 🌍 Current Focus
-- Building **Global Mirror AI** — an AI-driven truth platform for global politics
-- Prototyping scalable SaaS platforms
-- Exploring **AI for social good**, transparency, and peace tech
+- **Global Mirror AI** — An AI-driven truth detection system for international politics
+- **E-CMH Platform** — Multi-role hospital management system
+- **AI-Powered PDF Reader** — Smart reading partner with real-time learning
+- **Water Quality Detection AI** — Personal care tech based on local water conditions
+- **Cybersecurity Toolkit** — Multi-layer URL checking system with sandboxing
+- Expanding into **Green AI**, **Social Impact Tech**, and **AI for peacekeeping initiatives**
+
+---
+
+## ✅ Completed Projects
+*Currently in active development — major projects are in prototype, planning, or early development stages.*
+
+**Upcoming Projects:**
+- **Fake News Detection System** — AI-powered platform under design to identify and filter misinformation.
+- **Safe URL Checker** — Multi-version URL safety checker (CLI, GUI, Docker) currently in progress.
+- **Hair Care Water Quality Analyzer** — Prototype under development to recommend hair products based on local water quality.
+- **CMH Management System (E-CMH)** — Hospital management system with multi-role dashboards in active planning.
+- **AI PDF Q&A Engine** — Early stage development of an AI-powered PDF reading and Q&A assistant.
+- **Global Mirror AI** — Ongoing work to build a truth detection AI system for international politics.
 
 ---
 
 ## 📫 Connect with Me
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com)
-- GitHub: [github.com/YourUsername](https://github.com/YourUsername)
+- Email: abusayed102188@gmail.com
+- LinkedIn: [Your LinkedIn Profile]([https://www.linkedin.com](https://www.linkedin.com/in/abu-sayed-rabbi-915541226/))
+- GitHub: [github.com/YourUsername]([https://github.com/YourUsername](https://github.com/abusayedrabbi327))
 
 ---
 
