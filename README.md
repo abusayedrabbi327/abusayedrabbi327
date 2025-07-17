@@ -8,6 +8,12 @@ Founder of **Global Mirror**, a platform exposing political truths and fighting 
 I’m also involved in building advanced **AI PDF engines**, **cybersecurity tools**, **health tech solutions**, and **institutional management systems** like **E-CMH (Combined Military Hospital Management System)**.
 
 ---
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abusayedrabbi327&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&custom_title=abusayedrabbi327" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abusayedrabbi327&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+---
 
 ## 🛠️ Technologies & Tools
 - **Languages:** Python, JavaScript, TypeScript, Java, C++, PHP, SQL, Bash, HTML, CSS
