@@ -45,8 +45,8 @@ I’m also involved in building advanced **AI PDF engines**, **cybersecurity too
 
 ## 📫 Connect with Me
 - Email: abusayed102188@gmail.com
-- LinkedIn: [Your LinkedIn Profile]([https://www.linkedin.com](https://www.linkedin.com/in/abu-sayed-rabbi-915541226/))
-- GitHub: [github.com/YourUsername]([https://github.com/YourUsername](https://github.com/abusayedrabbi327))
+- LinkedIn: [(https://www.linkedin.com/in/abu-sayed-rabbi-915541226/)]
+- GitHub: [(https://github.com/abusayedrabbi327)]
 
 ---
 
