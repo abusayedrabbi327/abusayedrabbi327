@@ -27,7 +27,7 @@ I'm a **full-stack developer** and **tech enthusiast** specializing in **AI deve
 
 ---
 
-## 📂 All Projects Overview
+## 📂 Featured Projects
 
 ### 🏆 **Enterprise & Management Systems**
 
@@ -35,8 +35,6 @@ I'm a **full-stack developer** and **tech enthusiast** specializing in **AI deve
 |---------|-----------|---------|
 | **[AEGIS](https://github.com/abusayedrabbi327/AEGIS)** | AI, Security, Database | Final Year Project: Advanced security & system integration |
 | **[BANKMS](https://github.com/abusayedrabbi327/BANKMS)** | Backend System, Database | Core banking features, transactions, account management |
-| **[HRMS](https://github.com/abusayedrabbi327/HRMS)** | Java/MySQL | Human Resources Management with payroll & employee tracking |
-| **[Library-MS](https://github.com/abusayedrabbi327/Library-MS)** | Database System | Digital library with cataloging, borrowing, returns |
 
 ---
 
@@ -45,28 +43,7 @@ I'm a **full-stack developer** and **tech enthusiast** specializing in **AI deve
 | Project | Tech Stack | Purpose |
 |---------|-----------|---------|
 | **[Graph_Math](https://github.com/abusayedrabbi327/Graph_Math)** | React, JavaScript, Visualization | Interactive math learning: equation explorer & graph visualizer |
-| **[Pocket_Guru](https://github.com/abusayedrabbi327/Pocket_Guru)** | Web App | Educational app for personalized learning & guidance |
-
----
-
-### 🌐 **Web Applications & Tools**
-
-| Project | Tech Stack | Purpose |
-|---------|-----------|---------|
-| **[DoForge](https://github.com/abusayedrabbi327/DoForge)** | Node.js, React, MongoDB | Dynamic task management & project planning system |
-| **[Thikana3](https://github.com/abusayedrabbi327/Thikana3)** | Full-stack Web App | Location-based address/property management platform |
-| **[todo-js-app](https://github.com/abusayedrabbi327/todo-js-app)** | HTML, CSS, JavaScript | Simple & interactive to-do list with local storage |
-| **[User-Manager-](https://github.com/abusayedrabbi327/User-Manager-)** | Backend System | User authentication, registration, profile management |
-| **[Guestbook-](https://github.com/abusayedrabbi327/Guestbook-)** | PHP/MySQL | Simple web guestbook for message collection |
-
----
-
-### 🎮 **Games & Interactive Projects**
-
-| Project | Tech Stack | Purpose |
-|---------|-----------|---------|
-| **[Spin_wheel_for_fun](https://github.com/abusayedrabbi327/Spin_wheel_for_fun)** | JavaScript, HTML5 Canvas | Interactive spinning wheel game/decision maker |
-| **[Triple_Zero](https://github.com/abusayedrabbi327/Triple_Zero)** | Game Logic, Algorithm | Course project with game mechanics |
+| **[Triple_Zero](https://github.com/abusayedrabbi327/Triple_Zero)** | Game Logic, Algorithm | Advanced game mechanics with strategic gameplay |
 
 ---
 
@@ -75,7 +52,6 @@ I'm a **full-stack developer** and **tech enthusiast** specializing in **AI deve
 | Project | Tech Stack | Purpose |
 |---------|-----------|---------|
 | **[RT-XNIDS](https://github.com/abusayedrabbi327/RT-XNIDS)** | Python, Security, Networking | Real-Time Network Intrusion Detection System |
-| **[Triple-Zero](https://github.com/abusayedrabbi327/Triple-Zero)** | Security Algorithm | Security-focused course project |
 
 ---
 
@@ -84,27 +60,6 @@ I'm a **full-stack developer** and **tech enthusiast** specializing in **AI deve
 | Project | Tech Stack | Purpose |
 |---------|-----------|---------|
 | **[NSN_for_better_life](https://github.com/abusayedrabbi327/NSN_for_better_life)** | Full-stack App | Wellness, health tracking & lifestyle optimization |
-| **[Doc_Gift](https://github.com/abusayedrabbi327/Doc_Gift)** | Backend System | Documentation management & gifting system |
-
----
-
-### 📚 **Academic & Learning Projects**
-
-| Project | Tech Stack | Purpose |
-|---------|-----------|---------|
-| **[OOPlab10](https://github.com/abusayedrabbi327/OOPlab10)** | Java/C++ | Object-Oriented Programming concepts & design patterns |
-| **[git_practice](https://github.com/abusayedrabbi327/git_practice)** | Git/Version Control | Git workflow & version control practice |
-
----
-
-### 👥 **Collaborative Projects**
-
-| Project | Owner | Tech Stack | Purpose |
-|---------|-------|-----------|---------|
-| **[AEGIS](https://github.com/Abrar-Labib-29/AEGIS)** | Abrar-Labib-29 | Security, AI | Collaborative enterprise security system |
-| **[AEGIS](https://github.com/Ishrak-1520/AEGIS)** | Ishrak-1520 | Full-stack | Public collaborative development project |
-| **[BiniOrbit-SE](https://github.com/Ishrak-1520/BiniOrbit-SE)** | Ishrak-1520 | Software Engineering | Enterprise software engineering practices |
-| **[UIU-English-Language-Forum](https://github.com/Minhajh2o/UIU-English-Language-Forum-UIUELF-)** | Minhajh2o | Web Platform | Educational language learning community |
 
 ---
 
@@ -125,7 +80,6 @@ I'm a **full-stack developer** and **tech enthusiast** specializing in **AI deve
 ✅ AI/ML Model Development & Integration  
 ✅ Cybersecurity & Network Systems  
 ✅ Educational Software Development  
-✅ Task & Project Management Tools  
 ✅ Real-time Systems & Streaming  
 ✅ Interactive UI/UX Design  
 ✅ DevOps & Cloud Deployment  
