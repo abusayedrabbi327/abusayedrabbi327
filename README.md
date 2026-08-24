@@ -35,81 +35,80 @@ I'm also involved in building advanced **AI PDF engines**, **cybersecurity tools
 
 ### 🏆 **Enterprise & Management Systems**
 
-| Project | Tech Stack | Duration | Status | Purpose |
-|---------|-----------|----------|--------|---------|
-| **[AEGIS](https://github.com/abusayedrabbi327/AEGIS)** | AI, Security, Database | Feb 2026 - Present | 🔴 In Progress | Final Year Project: Advanced security & system integration |
-| **[E-CMH](https://github.com/abusayedrabbi327/HRMS)** | PHP/MySQL, Multi-role Dashboard | Aug 2025 | ✅ Complete | Hospital Management System with department-wise access |
-| **[BANKMS](https://github.com/abusayedrabbi327/BANKMS)** | Backend System, Database | Aug 2023 - Present | 🔄 Active | Core banking features, transactions, account management |
-| **[HRMS](https://github.com/abusayedrabbi327/HRMS)** | Java/MySQL | Aug 2025 | ✅ Complete | Human Resources Management with payroll & employee tracking |
-| **[Library-MS](https://github.com/abusayedrabbi327/Library-MS)** | Database System | Feb 2023 - Aug 2025 | ✅ Complete | Digital library with cataloging, borrowing, returns |
+| Project | Tech Stack | Purpose |
+|---------|-----------|---------|
+| **[AEGIS](https://github.com/abusayedrabbi327/AEGIS)** | AI, Security, Database | Final Year Project: Advanced security & system integration |
+| **[BANKMS](https://github.com/abusayedrabbi327/BANKMS)** | Backend System, Database | Core banking features, transactions, account management |
+| **[HRMS](https://github.com/abusayedrabbi327/HRMS)** | Java/MySQL | Human Resources Management with payroll & employee tracking |
+| **[Library-MS](https://github.com/abusayedrabbi327/Library-MS)** | Database System | Digital library with cataloging, borrowing, returns |
 
 ---
 
 ### 🎓 **Educational & Learning Platforms**
 
-| Project | Tech Stack | Duration | Status | Purpose |
-|---------|-----------|----------|--------|---------|
-| **[Graph_Math](https://github.com/abusayedrabbi327/Graph_Math)** | React, JavaScript, Visualization | Apr-May 2026 | ✅ Complete | Interactive math learning: equation explorer & graph visualizer |
-| **[Pocket_Guru](https://github.com/abusayedrabbi327/Pocket_Guru)** | Web App | 28+ days | 🔴 Active | Educational app for personalized learning & guidance |
+| Project | Tech Stack | Purpose |
+|---------|-----------|---------|
+| **[Graph_Math](https://github.com/abusayedrabbi327/Graph_Math)** | React, JavaScript, Visualization | Interactive math learning: equation explorer & graph visualizer |
+| **[Pocket_Guru](https://github.com/abusayedrabbi327/Pocket_Guru)** | Web App | Educational app for personalized learning & guidance |
 
 ---
 
 ### 🌐 **Web Applications & Tools**
 
-| Project | Tech Stack | Duration | Status | Purpose |
-|---------|-----------|----------|--------|---------|
-| **[DoForge](https://github.com/abusayedrabbi327/DoForge)** | Node.js, React, MongoDB | Jul 2025 | ✅ Complete | Dynamic task management & project planning system |
-| **[Thikana3](https://github.com/abusayedrabbi327/Thikana3)** | Full-stack Web App | Jun 2026 | ✅ Complete | Location-based address/property management platform |
-| **[todo-js-app](https://github.com/abusayedrabbi327/todo-js-app)** | HTML, CSS, JavaScript | Jul 2025 | ✅ Complete | Simple & interactive to-do list with local storage |
-| **[User-Manager-](https://github.com/abusayedrabbi327/User-Manager-)** | Backend System | Jul 2025 | ✅ Complete | User authentication, registration, profile management |
-| **[Guestbook-](https://github.com/abusayedrabbi327/Guestbook-)** | PHP/MySQL | Jul 2025 | ✅ Complete | Simple web guestbook for message collection |
+| Project | Tech Stack | Purpose |
+|---------|-----------|---------|
+| **[DoForge](https://github.com/abusayedrabbi327/DoForge)** | Node.js, React, MongoDB | Dynamic task management & project planning system |
+| **[Thikana3](https://github.com/abusayedrabbi327/Thikana3)** | Full-stack Web App | Location-based address/property management platform |
+| **[todo-js-app](https://github.com/abusayedrabbi327/todo-js-app)** | HTML, CSS, JavaScript | Simple & interactive to-do list with local storage |
+| **[User-Manager-](https://github.com/abusayedrabbi327/User-Manager-)** | Backend System | User authentication, registration, profile management |
+| **[Guestbook-](https://github.com/abusayedrabbi327/Guestbook-)** | PHP/MySQL | Simple web guestbook for message collection |
 
 ---
 
 ### 🎮 **Games & Interactive Projects**
 
-| Project | Tech Stack | Duration | Status | Purpose |
-|---------|-----------|----------|--------|---------|
-| **[Spin_wheel_for_fun](https://github.com/abusayedrabbi327/Spin_wheel_for_fun)** | JavaScript, HTML5 Canvas | Feb-Mar 2026 | ✅ Complete | Interactive spinning wheel game/decision maker |
-| **[Triple_Zero](https://github.com/abusayedrabbi327/Triple_Zero)** | Game Logic, Algorithm | Feb 2023 - Present | 🔄 Active | Course project with game mechanics |
+| Project | Tech Stack | Purpose |
+|---------|-----------|---------|
+| **[Spin_wheel_for_fun](https://github.com/abusayedrabbi327/Spin_wheel_for_fun)** | JavaScript, HTML5 Canvas | Interactive spinning wheel game/decision maker |
+| **[Triple_Zero](https://github.com/abusayedrabbi327/Triple_Zero)** | Game Logic, Algorithm | Course project with game mechanics |
 
 ---
 
 ### 🔒 **Cybersecurity & Network Systems**
 
-| Project | Tech Stack | Duration | Status | Purpose |
-|---------|-----------|----------|--------|---------|
-| **[RT-XNIDS](https://github.com/abusayedrabbi327/RT-XNIDS)** | Python, Security, Networking | Recent | 🔴 New | Real-Time Network Intrusion Detection System |
-| **[Triple-Zero](https://github.com/abusayedrabbi327/Triple-Zero)** | Security Algorithm | Feb 2023 - Present | 🔄 Active | Security-focused course project |
+| Project | Tech Stack | Purpose |
+|---------|-----------|---------|
+| **[RT-XNIDS](https://github.com/abusayedrabbi327/RT-XNIDS)** | Python, Security, Networking | Real-Time Network Intrusion Detection System |
+| **[Triple-Zero](https://github.com/abusayedrabbi327/Triple-Zero)** | Security Algorithm | Security-focused course project |
 
 ---
 
 ### 💡 **Wellness & Innovation Projects**
 
-| Project | Tech Stack | Duration | Status | Purpose |
-|---------|-----------|----------|--------|---------|
-| **[NSN_for_better_life](https://github.com/abusayedrabbi327/NSN_for_better_life)** | Full-stack App | Mar 2026 | 🔴 Active | Wellness, health tracking & lifestyle optimization |
-| **[Doc_Gift](https://github.com/abusayedrabbi327/Doc_Gift)** | Backend System | Apr 2026 | 🔄 In Development | Documentation management & gifting system |
+| Project | Tech Stack | Purpose |
+|---------|-----------|---------|
+| **[NSN_for_better_life](https://github.com/abusayedrabbi327/NSN_for_better_life)** | Full-stack App | Wellness, health tracking & lifestyle optimization |
+| **[Doc_Gift](https://github.com/abusayedrabbi327/Doc_Gift)** | Backend System | Documentation management & gifting system |
 
 ---
 
 ### 📚 **Academic & Learning Projects**
 
-| Project | Tech Stack | Duration | Status | Purpose |
-|---------|-----------|----------|--------|---------|
-| **[OOPlab10](https://github.com/abusayedrabbi327/OOPlab10)** | Java/C++ | Feb 2023 | ✅ Complete | Object-Oriented Programming concepts & design patterns |
-| **[git_practice](https://github.com/abusayedrabbi327/git_practice)** | Git/Version Control | Aug 2025 | 📖 Learning | Git workflow & version control practice |
+| Project | Tech Stack | Purpose |
+|---------|-----------|---------|
+| **[OOPlab10](https://github.com/abusayedrabbi327/OOPlab10)** | Java/C++ | Object-Oriented Programming concepts & design patterns |
+| **[git_practice](https://github.com/abusayedrabbi327/git_practice)** | Git/Version Control | Git workflow & version control practice |
 
 ---
 
 ### 👥 **Collaborative Projects**
 
-| Project | Owner | Tech Stack | Duration | Status | Purpose |
-|---------|-------|-----------|----------|--------|---------|
-| **[AEGIS](https://github.com/Abrar-Labib-29/AEGIS)** | Abrar-Labib-29 | Security, AI | Feb-May 2026 | ✅ Complete | Collaborative enterprise security system |
-| **[AEGIS](https://github.com/Ishrak-1520/AEGIS)** | Ishrak-1520 | Full-stack | Nov 2025 - Present | 🔴 Active | Public collaborative development project |
-| **[BiniOrbit-SE](https://github.com/Ishrak-1520/BiniOrbit-SE)** | Ishrak-1520 | Software Engineering | Aug 2025 - May 2026 | 🔴 Active | Enterprise software engineering practices |
-| **[UIU-English-Language-Forum](https://github.com/Minhajh2o/UIU-English-Language-Forum-UIUELF-)** | Minhajh2o | Web Platform | Jan-Feb 2026 | 🔴 Active | Educational language learning community |
+| Project | Owner | Tech Stack | Purpose |
+|---------|-------|-----------|---------|
+| **[AEGIS](https://github.com/Abrar-Labib-29/AEGIS)** | Abrar-Labib-29 | Security, AI | Collaborative enterprise security system |
+| **[AEGIS](https://github.com/Ishrak-1520/AEGIS)** | Ishrak-1520 | Full-stack | Public collaborative development project |
+| **[BiniOrbit-SE](https://github.com/Ishrak-1520/BiniOrbit-SE)** | Ishrak-1520 | Software Engineering | Enterprise software engineering practices |
+| **[UIU-English-Language-Forum](https://github.com/Minhajh2o/UIU-English-Language-Forum-UIUELF-)** | Minhajh2o | Web Platform | Educational language learning community |
 
 ---
 
@@ -121,16 +120,6 @@ I'm also involved in building advanced **AI PDF engines**, **cybersecurity tools
 - **Water Quality Detection AI** — Personalized care tech based on local water conditions
 - **Cybersecurity Toolkit** — Multi-layer URL checking system with sandboxing & analysis
 - Expanding into **Green AI**, **Social Impact Tech**, and **AI for peacekeeping initiatives**
-
----
-
-## 📊 Quick Statistics
-- **Total Repositories:** 25
-- **Public Projects:** 12
-- **Private Projects:** 13
-- **Active Collaborations:** 4
-- **Experience Span:** Feb 2023 - Aug 2026 (3+ years)
-- **Focus Areas:** Full-stack Development, AI/ML, System Design, Security, Database Management
 
 ---
 
@@ -162,4 +151,4 @@ I'm also involved in building advanced **AI PDF engines**, **cybersecurity tools
 
 ---
 
-**Last Updated:** August 24, 2026 | **Status:** 🟢 Actively Building
+**Last Updated:** August 24, 2026
