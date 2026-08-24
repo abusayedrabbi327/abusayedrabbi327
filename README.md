@@ -1,11 +1,7 @@
 # Hi there, I'm Abu Sayed 👋
 
 ## 🚀 About Me
-I'm an aspiring **tech entrepreneur** with a vision to **change the world** through impactful and scalable technology. I specialize in **AI development**, **full-stack systems**, **database management**, and **custom software solutions** for institutional and enterprise needs.
-
-Founder of **Global Mirror**, a platform exposing political truths and fighting misinformation to promote a **crime-free and peaceful world**.
-
-I'm also involved in building advanced **AI PDF engines**, **cybersecurity tools**, **health tech solutions**, **network security systems**, and **institutional management platforms** like **E-CMH (Combined Military Hospital Management)**, **HRMS (Human Resources Management)**, and **Banking Systems**.
+I'm a **full-stack developer** and **tech enthusiast** specializing in **AI development**, **full-stack systems**, **database management**, and **custom software solutions**. I build scalable applications and innovative solutions across web, mobile, and enterprise platforms.
 
 ---
 
