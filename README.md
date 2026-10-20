@@ -43,7 +43,7 @@ I'm a **full-stack developer** and **tech enthusiast** specializing in **AI deve
 | Project | Tech Stack | Purpose |
 |---------|-----------|---------|
 | **[Graph_Math](https://github.com/abusayedrabbi327/Graph_Math)** | React, JavaScript, Visualization | Interactive math learning: equation explorer & graph visualizer |
-| **[Triple_Zero](https://github.com/abusayedrabbi327/Triple_Zero)** | Game Logic, Algorithm | Advanced game mechanics with strategic gameplay |
+
 
 ---
 
@@ -64,9 +64,7 @@ I'm a **full-stack developer** and **tech enthusiast** specializing in **AI deve
 ---
 
 ## 🌍 Current Focus
-- **Global Mirror AI** — An AI-driven truth detection system for international politics
 - **E-CMH Platform** — Multi-role hospital management system with advanced features
-- **RT-XNIDS** — Real-time network intrusion detection and security monitoring
 - **AI-Powered PDF Reader** — Smart reading partner with real-time learning & Q&A
 - **Water Quality Detection AI** — Personalized care tech based on local water conditions
 - **Cybersecurity Toolkit** — Multi-layer URL checking system with sandboxing & analysis
@@ -91,7 +89,7 @@ I'm a **full-stack developer** and **tech enthusiast** specializing in **AI deve
 - **Email:** abusayed102188@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/abu-sayed-rabbi-915541226/
 - **GitHub:** https://github.com/abusayedrabbi327
-- **Portfolio:** Coming Soon
+- **Portfolio:** https://abusayedrabbi327.github.io/
 
 ---
 
