@@ -1,6 +1,6 @@
-# Hi there, I'm Abu Sayed 👋
+# Hi there, I'm Abu Sayed Rabbi
 
-## 🚀 About Me
+##  About Me
 I'm a **full-stack developer** and **tech enthusiast** specializing in **AI development**, **full-stack systems**, **database management**, and **custom software solutions**. I build scalable applications and innovative solutions across web, mobile, and enterprise platforms.
 
 ---
